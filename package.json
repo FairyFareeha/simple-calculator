@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "name": "f5l2-simple-calculator",
+  "version": "1.0.2",
+  "description": "A simple calculator with Typescript,Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fareeha Khurram",
+  "license": "MIT"
+}
